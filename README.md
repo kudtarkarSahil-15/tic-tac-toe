@@ -1,3 +1,7 @@
+# Tic-Tac-Toe in React Js
+
+**<ins>followup<ins>**: https://tictactoe-reactgame.netlify.app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
